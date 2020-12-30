@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="16" viewBox="0 0 11 16">
+  <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(-942 -1220)">
+    <g id="Vector_Smart_Object-2" data-name="Vector Smart Object" transform="translate(940.167 1220)">
+      <path id="Path_27" data-name="Path 27" d="M11.093,4.5l1.664-2.723a.54.54,0,0,0,.023-.513.454.454,0,0,0-.4-.264H4.583V.5A.48.48,0,0,0,4.125,0a.48.48,0,0,0-.458.5V15H1.833v1H6.417V15H4.583V8h7.792a.454.454,0,0,0,.4-.264.54.54,0,0,0-.023-.513L11.093,4.5ZM4.583,7V2h6.935L10.16,4.223a.539.539,0,0,0,0,.555L11.519,7Z"/>
+    </g>
+    <path id="Color_Overlay" data-name="Color Overlay" d="M942,1236v-1h1.833v-14.5a.46.46,0,1,1,.916,0v.5h7.792a.454.454,0,0,1,.4.264.54.54,0,0,1-.023.513l-1.663,2.724,1.663,2.722a.541.541,0,0,1,.023.513.454.454,0,0,1-.4.264H944.75v7h1.833v1Zm2.75-9h6.935l-1.358-2.222a.539.539,0,0,1,0-.555l1.358-2.222H944.75Z" fill="#888"/>
+  </g>
+</svg>

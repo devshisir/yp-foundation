@@ -1,0 +1,1145 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    #authBanarArea{
+        padding: 0px 98px;
+    }
+    #authAlertARea {
+        width: 33%;
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 1700px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+    /* course page into page  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPaneltopInfo {
+        padding: 30px 39px 30px 50px;
+    }
+    /* course page webiner  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent {
+        width: 100%;
+    }
+}
+
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    /* index page  */
+    #headerTop .topheaderSearch {
+        width: 90%;
+        margin: 0 auto;
+    }
+    #headerTop .rightUserInfo > ul li {
+        margin-left: 15px;
+    }
+    #headerTop .logoarea .exploreCourse .dropdown-menu {
+        width: 930px;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-next {
+        right: -21px;
+        background: #fff;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-prev {
+        left: -21px;
+        background: #fff;
+    }
+    /* explore course page  */
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-nav .owl-prev {
+        left: -20px;
+        background: #fff;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-nav .owl-next {
+        right: -20px;
+        background: #fff;
+    }
+    #exploreCourseArea{
+        overflow-x: hidden;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-stage-outer {
+        position: relative;
+        overflow: visible;
+    }
+    /* course page into page  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPaneltopInfo {
+        padding: 30px 39px 30px 50px;
+    }
+    /* course page webiner  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent {
+        width: 100%;
+    }
+}
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #authBanarArea{
+        padding: 0px 40px;
+    }
+    #authAlertARea {
+        width: 43%;
+    }
+    /* index page  */
+    #headerTop .topheaderSearch {
+        width: 90%;
+        margin: 0 auto;
+    }
+    #headerTop .rightUserInfo > ul li {
+        margin-left: 15px;
+    }
+    #headerTop .logoarea .exploreCourse .dropdown-menu {
+        width: 853px;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-next {
+        right: -21px;
+        background: #fff;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-prev {
+        left: -21px;
+        background: #fff;
+    }
+    #headerTop .logoarea .exploreCourse .dropdown-menu .menuExploreCourse .exploreCourseItem{
+        margin-bottom: 20px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails .courseDetailsItem h4 {
+        font-size: 13px;
+        margin-top: 7px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails .courseDetailsItem .progress {
+        width: 95px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails2 .courseDetailsItem {
+        margin-right: 51px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .beingCourseBtn a {
+        font-size: 13px;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-next {
+        right: -15px;
+        background: #fff;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-prev {
+        left: -15px;
+        background: #fff;
+    }
+    #footerTop .footerTopLink ul li {
+        margin-left: 27px;
+    }
+    /* explore course page  */
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-nav .owl-prev {
+        left: -15px;
+        background: #fff;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-nav .owl-next {
+        right: -15px;
+        background: #fff;
+    }
+    #exploreCourseArea{
+        overflow-x: hidden;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-stage-outer {
+        position: relative;
+        overflow: visible;
+    }
+    /* view track page  */
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .title .info p {
+        font-size: 14px;
+    }
+    /* course page into page  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPaneltopInfo {
+        padding: 30px 39px 30px 50px;
+    }
+    /* course page webiner  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent {
+        width: 100%;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .topNavBtn .nav .nav-item {
+        width: 193px;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #authBanarArea .authBox {
+        padding: 62px 48px;
+        width: 100%;
+    }
+    #authAlertARea {
+        width: 50%;
+    }
+    /* index page  */
+    #headerTop .rightUserInfo > ul li {
+        margin-left: 2px;
+    }
+    #headerSearchSmallDevice{
+        display: block;
+    }
+    #headerTop .logoarea .exploreCourse .dropdown-menu {
+        width: 600px;
+    }
+    #headerTop .logoarea .exploreCourse .dropdown-menu .menuExploreCourse .exploreCourseItem{
+        margin-bottom: 20px;
+    }
+    .dn-md{
+        display: none !important;
+    }
+    .headerSearchSmallDeviceBtn{
+        display: inline-block !important;
+    }
+    #banarHome .banarHomeContent h1 {
+        font-size: 46px;
+    }
+    #banarHome .banarHomeContent .line_bottom {
+        width: 221px;
+    }
+    #banarHome .banarHomeContent p {
+        margin-top: 18px;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    #banarHome .banarHomeContent ul .getStart a {
+        height: 45px;
+        width: 143px;
+        line-height: 45px;
+        font-size: 13px;
+    }
+    #banarHome .banarHomeContent ul li {
+        margin-right: 8px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .beingCourseBtn {
+        margin-top: 22px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox {
+        padding: 14px 21px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title .info h4 {
+        font-size: 18px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title .info p {
+        font-size: 14px;
+        width: 90%;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails .courseDetailsItem .progress {
+        width: 108px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails .courseDetailsItem h4 {
+        font-size: 14px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails2 .courseDetailsItem {
+        margin-right: 43px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .beingCourseBtn a {
+        font-size: 13px;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-next {
+        right: -15px;
+        background: #fff;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-prev {
+        left: -15px;
+        background: #fff;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .exploreCourseSliderItem {
+        padding: 21px 33px;
+    }
+    #footerTop .footerLogo{
+        text-align: center;
+    }
+    #footerTop .footerLogo p {
+        font-size: 14px;
+        margin: 0 auto;
+        margin-top: 14px;
+    }
+    .footerTopLink.text-end {
+        text-align: center !important;
+        margin-top: 24px;
+    }
+    .footerCopyright {
+        text-align: center;
+    }
+    .footerSocial.text-end {
+        text-align: center !important;
+        margin-top: 10px;
+    }
+    /* explore course page  */
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-nav .owl-prev {
+        left: -15px;
+        background: #fff;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-nav .owl-next {
+        right: -15px;
+        background: #fff;
+    }
+    #exploreCourseArea{
+        overflow-x: hidden;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-stage-outer {
+        position: relative;
+        overflow: visible;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .topTitle h2 {
+        font-size: 28px;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .topTitle p {
+        font-size: 15px;
+    }
+    /* view track page  */
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .title .info p {
+        font-size: 14px;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .courseDetails2 .courseDetailsItem {
+        margin-right: 38px;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .beingCourseBtn {
+        margin-top: 23px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseActionBtn{
+        margin-top: 23px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain {
+        padding: 45px 54px 1px 40px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .itemNumber {
+        width: 258px;
+    }
+    /* course page intro  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent {
+        padding: 30px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseContentLayout1 .title h3 {
+        font-size: 16px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseContentLayout1 .content {
+        margin-top: 18px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseContentLayout1 .content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPaneltopInfo {
+        padding: 30px 39px 30px 50px;
+    }
+    /* course page webiner  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent {
+        width: 100%;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .topNavBtn .nav .nav-item {
+        width: auto;
+        margin-right: 20px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem {
+        flex-direction: column;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem .imageBox{
+        margin-bottom: 20px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent .adminPostContent p {
+        font-size: 14px;
+        line-height: 26px;
+        width: 100%;
+    }
+
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    #authBanarArea{
+        padding: 40px 0px;
+    }
+    #authBanarArea .authLogoarea img{
+        height: 200px;
+        margin: 0 auto;
+        display: table;
+        margin-bottom: 30px;
+    }
+    #authBanarArea .authBox {
+        padding: 50px 60px;
+        float: right;
+        width: 80%;
+        float: inherit;
+        margin: 0 auto;
+    }
+    #authAlertARea {
+        width: 65%;
+    }
+    /* index page  */
+    .dn-sm{
+        display: none;
+    }
+    .headerSearchSmallDeviceBtn{
+        display: inline-block !important;
+    }
+    #headerTop .rightUserInfo > ul li {
+        margin-left: -1px;
+    }
+    #headerTop .logoarea .exploreCourse .dropdown-menu {
+        width: 500px;
+        right: 56px !important;
+        left: -33px !important;
+    }
+    #headerTop .logoarea .exploreCourse .dropdown-menu .menuExploreCourse .exploreCourseItem{
+        margin-bottom: 20px;
+    }
+    #headerTop .logoarea .exploreCourse .dropdown-menu .viewCourseInfoBottomLink .info{
+        text-align: center !important;
+        margin-top: 10px;
+    }
+    .banarHomeImage.text-end {
+        text-align: center !important;
+    }
+    #banarHome .banarHomeContent h1 {
+        font-size: 46px;
+    }
+    #banarHome .banarHomeContent .line_bottom {
+        width: 221px;
+    }
+    #banarHome .banarHomeContent p {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    #banarHome .banarHomeContent ul {
+        margin-top: 27px;
+    }
+    #banarHome .banarHomeImage img {
+        width: 100%;
+        margin-top: 26px;
+    }
+    #homePageCourseTab .homeCourseTabBtn .nav-tabs li a {
+        min-width: 162px;
+        font-size: 14px;
+        padding: 0px 0px 14px 0px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .beingCourseBtn {
+        margin-top: 22px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox {
+        padding: 14px 21px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title .info h4 {
+        font-size: 18px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title .info p {
+        font-size: 14px;
+        width: 90%;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails .courseDetailsItem .progress {
+        width: 108px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails .courseDetailsItem h4 {
+        font-size: 14px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails2 .courseDetailsItem {
+        margin-right: 43px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .beingCourseBtn a {
+        font-size: 13px;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-next {
+        right: -15px;
+        background: #fff;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-prev {
+        left: -15px;
+        background: #fff;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .exploreCourseSliderItem {
+        padding: 21px 33px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title {
+        margin-top: 9px;
+    }
+    #footerTop .footerLogo{
+        text-align: center;
+    }
+    #footerTop .footerLogo p {
+        font-size: 14px;
+        margin: 0 auto;
+        margin-top: 14px;
+    }
+    .footerTopLink.text-end {
+        text-align: center !important;
+        margin-top: 24px;
+    }
+    .footerCopyright {
+        text-align: center;
+    }
+    .footerSocial.text-end {
+        text-align: center !important;
+        margin-top: 0px;
+        margin-bottom: 8px;
+    }
+    #footerBottom .footerCopyright p {
+        font-size: 11px;
+    }
+    #footerBottom {
+        padding: 30px 0px;
+    }
+    #footerBottom .footerSocial ul li a {
+        font-size: 19px;
+    }
+    #footerBottom .footerSocial ul li {
+        margin-left: 27px;
+    }
+    #footerTop {
+        padding: 50px 0px;
+    }
+    #footerTop .footerTopLink ul li {
+        margin-left: 21px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails {
+        margin-top: 20px;
+        flex-direction: column;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails .courseDetailsItem{
+        margin-bottom: 15px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .beingCourseBtn a {
+        width: 100%;
+    }
+    /* explore course page  */
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-nav .owl-prev {
+        left: -15px;
+        background: #fff;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-nav .owl-next {
+        right: -15px;
+        background: #fff;
+    }
+    #exploreCourseArea{
+        overflow-x: hidden;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-stage-outer {
+        position: relative;
+        overflow: visible;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .topTitle h2 {
+        font-size: 28px;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .topTitle p {
+        font-size: 15px;
+    }
+    #exploreCourseArea .exploreCourseMainContainer {
+        margin-top: 22px;
+    }
+    /* view page track page */
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .title {
+        margin-top: 20px;
+        flex-direction: column;
+        text-align: center;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .courseDetails {
+        padding-left: 15px;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .courseDetails2 .courseDetailsItem {
+        margin-right: 0px;
+        margin-bottom: 17px;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .beingCourseBtn {
+        margin-top: 20px;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .beingCourseBtn a {
+        width: 100%;
+        height: 54px;
+        line-height: 54px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem {
+        flex-direction: column;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .itemNumber {
+        width: auto;
+        margin-bottom: 40px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .discription p {
+        font-size: 14px;
+        width: 100%;
+        line-height: 22px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseActionBtn{
+        margin-top: 20px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseActionBtn a{
+        width: 100%;
+        height: 54px;
+        line-height: 54px;
+        padding: 0px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseBottomInfo {
+        display: flex;
+        flex-direction: column;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseBottomInfo .courseBottomInfoItemProgress {
+        margin-left: 0px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseBottomInfo .courseBottomInfoItem {
+        min-width: 150px;
+        margin-bottom: 21px;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .title .info{
+        margin-top: 10px;
+    }
+    /* course page intro  */
+    #coursePageArea .coursePageMainArea .coursePageLeftPanel {
+        border-right: none;
+        padding-right: 11px;
+    }
+    .ml-sm-15{
+        padding-left: 15px !important;
+    }
+    /* course page webiner  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent {
+        width: 100%;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .topNavBtn .nav .nav-item {
+        width: auto;
+        margin-right: 20px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem {
+        flex-direction: column;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem .imageBox{
+        margin-bottom: 20px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent .adminPostContent p {
+        font-size: 14px;
+        line-height: 26px;
+        width: 100%;
+    }
+    /* profile page responsive  */
+    #myProfilePage .profileMain .profilePageMainContainer .profilePageUserImage{
+        margin-bottom: 30px;
+    }
+
+    /*--- notification dropdown --*/
+    #headerTop .rightUserInfo>ul li .dropdown_noti {
+        right: -122px !important;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    #authBanarArea{
+        padding: 40px 0px;
+    }
+    #authBanarArea .authLogoarea img{
+        height: 150px;
+        margin: 0 auto;
+        display: table;
+        margin-bottom: 30px;
+    }
+    #authBanarArea .authBox {
+        padding: 40px 30px;
+        float: right;
+        width: 100%;
+        float: inherit;
+        margin: 0 auto;
+    }
+    #authAlertARea {
+        width: 94%;
+    }
+    /* index page  */
+    .hide_mobile{
+        display: none;
+    }
+    .container-fluid {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .headerSearchSmallDeviceBtn{
+        display: inline-block !important;
+    }
+    .mobileSidebarMenu{
+        display: inline-block !important;
+    }
+    #headerTop .rightUserInfo .dropdown-toggle::after {
+        display: none;
+    }
+    #headerTop .rightUserInfo > ul li {
+        margin-left: 1px;
+    }
+    #headerTop {
+        padding: 11px 0px;
+    }
+    #headerTop .rightUserInfo > ul .headerSearchSmallDeviceBtn {
+        margin-right: 16px;
+    }
+    #banarHome .banarHomeContent h1 {
+        font-size: 45px;
+    }
+    #banarHome .banarHomeContent .line_bottom {
+        width: 219px;
+        height: 4px;
+    }
+    #banarHome .banarHomeContent p {
+        margin-top: 19px;
+        font-size: 16px;
+        width: 100%;
+    }
+    #banarHome .banarHomeContent ul .getStart a {
+        height: 52px;
+        width: 159px;
+        line-height: 52px;
+        font-size: 12px;
+    }
+    #banarHome .banarHomeContent ul li {
+        margin-right: 18px;
+    }
+    #banarHome .banarHomeImage img {
+        width: 100%;
+        margin-top: 28px;
+    }
+    .banarHomeImage.text-end {
+        text-align: center !important;
+    }
+    #banarHome .banarHomeContent ul {
+        margin-top: 28px;
+    }
+    #homePageCourseTab .homeCourseTabBtn .nav-tabs li a {
+        min-width: auto;
+        font-size: 14px;
+        padding: 0px 0px 14px 0px;
+    }
+    #homePageCourseTab .homeCourseTabBtn .nav-tabs {
+        justify-content: space-around;
+        padding: 0px 10px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .beingCourseBtn {
+        margin-top: 22px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox {
+        padding: 25px 21px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title .info h4 {
+        font-size: 18px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title .info p {
+        font-size: 14px;
+        width: 90%;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails .courseDetailsItem .progress {
+        width: 108px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails .courseDetailsItem h4 {
+        font-size: 14px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails2 .courseDetailsItem {
+        margin-right: 43px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .beingCourseBtn a {
+        font-size: 13px;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-next {
+        display: none;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .owl-nav .owl-prev {
+        display: none;
+    }
+    #homePageCourseTab .homeCourseContent .recomendedTrackSlider .exploreCourseSliderArea .exploreCourseSliderItem {
+        padding: 21px 33px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title {
+        margin-top: 9px;
+    }
+    #footerTop .footerLogo{
+        text-align: center;
+    }
+    #footerTop .footerLogo p {
+        font-size: 14px;
+        margin: 0 auto;
+        margin-top: 14px;
+    }
+    .footerTopLink.text-end {
+        text-align: center !important;
+        margin-top: 24px;
+    }
+    .footerCopyright {
+        text-align: center;
+    }
+    .footerSocial.text-end {
+        text-align: center !important;
+        margin-top: 0px;
+    }
+    #footerBottom .footerCopyright p {
+        font-size: 11px;
+    }
+    #footerBottom {
+        padding: 30px 0px;
+    }
+    #footerBottom .footerSocial ul li a {
+        font-size: 19px;
+    }
+    #footerBottom .footerSocial ul li {
+        margin-left: 27px;
+    }
+    #footerTop {
+        padding: 50px 0px;
+    }
+    #footerTop .footerTopLink ul li {
+        margin-left: 21px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails {
+        margin-top: 20px;
+        flex-direction: column;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails .courseDetailsItem{
+        margin-bottom: 15px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .beingCourseBtn a {
+        width: 100%;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title {
+        margin-top: 20px;
+        flex-direction: column;
+        text-align: center;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title .info{
+        margin-top: 15px;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .title .info p {
+        width: 100%;
+    }
+    #homePageCourseTab .homeCourseContent .homeCourseContentItem .itemBox .mainContent .courseLeftContent .courseDetails {
+        padding-left: 13px;
+        margin-top: 30px;
+    }
+    #footerTop .footerLogo a img {
+        width: 54%;
+    }
+    #footerTop .footerLogo p {
+        width: 100%;
+    }
+    #footerTop .footerTopLink ul li {
+        margin-left: 0px;
+        margin: 0px 12px;
+        margin-bottom: 10px;
+    }
+    #footerBottom .footerSocial ul li a {
+        font-size: 23px;
+    }
+    .footerCopyright {
+        text-align: center;
+        margin-top: 11px;
+    }
+    #footerBottom .footerSocial ul li {
+        margin-left: 0px;
+        margin: 0px 14px;
+    }
+    /* explore course page  */
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-nav .owl-prev {
+        display: none;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-nav .owl-next {
+        display: none;
+    }
+    #exploreCourseArea{
+        overflow-x: hidden;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .owl-stage-outer {
+        position: relative;
+        overflow: visible;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .topTitle h2 {
+        font-size: 24px;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .topTitle p {
+        font-size: 15px;
+    }
+    #exploreCourseArea .exploreCourseMainContainer {
+        margin-top: 22px;
+    }
+    #exploreCourseArea {
+        padding: 47px 0px 30px 0px;
+    }
+    #exploreCourseArea .exploreCourseMainContainer .exploreCourseSliderArea .exploreCourseSliderItem {
+        padding: 22px 28px;
+    }
+    /* view page track page */
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .title {
+        margin-top: 20px;
+        flex-direction: column;
+        text-align: center;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .courseDetails {
+        padding-left: 15px;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .courseDetails2 .courseDetailsItem {
+        margin-right: 0px;
+        margin-bottom: 17px;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .beingCourseBtn {
+        margin-top: 20px;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .beingCourseBtn a {
+        width: 100%;
+        height: 54px;
+        line-height: 54px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem {
+        flex-direction: column;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .itemNumber {
+        width: auto;
+        margin-bottom: 40px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .discription p {
+        font-size: 14px;
+        width: 100%;
+        line-height: 22px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseActionBtn{
+        margin-top: 20px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseActionBtn a{
+        width: 100%;
+        height: 54px;
+        line-height: 54px;
+        padding: 0px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseBottomInfo {
+        display: flex;
+        flex-direction: column;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseBottomInfo .courseBottomInfoItemProgress {
+        margin-left: 0px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent .courseMainContent .courseBottomContainer .courseBottomInfo .courseBottomInfoItem {
+        min-width: 150px;
+        margin-bottom: 21px;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .title .info{
+        margin-top: 10px;
+    }
+    #viewPageTrack .viewTrackTopCard {
+        padding: 19px 24px;
+    }
+    #viewPageTrack .viewTrackTopCard .itemBox .mainContent .courseLeftContent .title .info p {
+        font-size: 14px;
+    }
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain {
+        padding: 20px;
+    }
+    #viewPageTrack {
+        padding: 50px 0px 100px 0px;
+    }
+    /* course page intro  */
+    #coursePageArea .coursePageMainArea .coursePageLeftPanel {
+        border-right: none;
+        padding-right: 11px;
+    }
+    .ml-sm-15{
+        padding-left: 15px !important;
+    }
+    .comonBreadCome ul {
+        width: 96%;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPaneltopInfo {
+        padding: 17px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent {
+        padding: 17px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseContentLayout1 .title h3 {
+        font-size: 16px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseContentLayout1 .content p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseContentLayout1 .content {
+        margin-top: 21px;
+    }
+    .cousePagination ul li a {
+        height: 44px;
+        width: 141px;
+        line-height: 44px;
+        font-size: 12px;
+    }
+    .cousePagination ul li {
+        margin-left: 3px;
+    }
+    #coursePageArea {
+        padding: 45px 0px 100px 0px;
+    }
+    /* course page webiner  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent {
+        width: 100%;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .topNavBtn .nav .nav-item {
+        width: auto;
+        margin-right: 20px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem {
+        flex-direction: column;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem .imageBox{
+        margin-bottom: 20px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent .adminPostContent p {
+        font-size: 14px;
+        line-height: 26px;
+        width: 100%;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .topNavBtn .nav .nav-item {
+        width: auto;
+        margin-right: 0px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .topNavBtn .nav .nav-item .nav-link {
+        font-size: 13px;
+        padding: 13px 14px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .courseFileTabContent .table tbody tr td:first-child {
+        padding-left: 8px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .courseFileTabContent .table thead th:first-child {
+        padding-left: 8px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .courseFileTabContent .table tbody tr td {
+        padding-left: 8px;
+        font-size: 14px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent .topAdminContent .adminInfo h4 {
+        font-size: 14px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .discussAdminContent .topAdminContent .adminInfo ul li {
+        font-size: 13px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem .contetnComment .topTitle .userInfoDate {
+        flex-direction: column;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem .contetnComment .topTitle .likeShareOption{
+        text-align: left !important;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem .contetnComment .topTitle .likeShareOption ul{
+        margin-top: 10px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem .contetnComment .topTitle .likeShareOption ul li {
+        margin-left: 0px;
+        margin-right: 10px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem .contetnComment .topTitle .userInfoDate .dateBox ul{
+        margin-top: 5px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem .contetnComment .topTitle .userInfoDate .dateBox ul li {
+        margin-left: 0px;
+        margin-right: 10px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseDetailsTabArea .mainTabContent .discussFormTabContent .commentListBox .commentLoopItem .contetnComment .commentText{
+        margin-top: 15px;
+    }
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .courseContentLayout2 .topVideoArea video {
+        height: 224px;
+    }
+    /* profile page responsive  */
+    #myProfilePage .profileMain .profilePageMainContainer .profilePageUserImage{
+        margin-bottom: 30px;
+    }
+    #myProfilePage .profileMain .profilePageMainContainer {
+        padding: 40px 20px;
+    }
+    #myProfilePage .profileMain .profilePageMainContainer .profileInfoRight .profileInfoBox {
+        flex-wrap: wrap;
+    }
+    #myProfilePage .profileMain .profilePageMainContainer .profileInfoRight .profileInfoBox .content {
+        margin-left: 12px;
+    }
+    #myProfilePage .profileMain .profilePageMainContainer .profileInfoRight .profileInfoBox .content p {
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    #myProfilePage .profileMain .profilePageMainContainer .profileInfoRight .profileInfoBox .content h4 {
+        font-size: 14px;
+        margin-top: 4px;
+    }
+    #myProfilePage .profileMain .profilePageMainContainer .profileInfoRight .profileInfoBox .chnagePassLink {
+        top: 38%;
+        font-size: 13px;
+    }
+    #myProfilePage .profilePageTopTitle h3 {
+        font-size: 30px;
+    }
+    #myProfilePage .profilePageTopTitle p {
+        font-size: 14px;
+    }
+    #myProfilePage {
+        padding: 30px 0px;
+    }
+    /*--- notification dropdown --*/
+    #headerTop .rightUserInfo>ul li .dropdown_noti {
+        right: -95px !important;
+        width: 310px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
