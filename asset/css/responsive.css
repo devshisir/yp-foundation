@@ -157,7 +157,10 @@
         width: 193px;
     }
 
-
+    /*-- this is for global popup --*/
+    .global_modal .modal-content {
+        padding: 35px 50px 68px 50px;
+    }
 
 
 
@@ -370,8 +373,36 @@
         line-height: 26px;
         width: 100%;
     }
+    /*-- this is for global popup --*/
+    .global_modal .modal-content {
+        padding: 35px 50px 68px 50px;
+    }
 
+    /* quiz pge 2 content  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .course_page_quiz_2 .course_page_quiz_2_container .quiz_result_box .right_info_result img{
+        height: 50px;
+    }
+    /* course page assesment  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .course_page_quiz_1 .assesment_quiz_content .upload_file_list ul li {
+        margin-bottom: 19px;
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*-- Phone Landscape --*/
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -648,10 +679,21 @@
     #headerTop .rightUserInfo>ul li .dropdown_noti {
         right: -122px !important;
     }
-
-
-
-
+    /*-- this is for global popup --*/
+    .global_modal .modal-content {
+        padding: 35px 40px 68px 40px;
+    }
+    .modal-dialog {
+        max-width: 451px;
+    }
+    /* quiz pge 2 content  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .course_page_quiz_2 .course_page_quiz_2_container .quiz_result_box .right_info_result img{
+        height: 50px;
+    }
+    /* course page assesment  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .course_page_quiz_1 .assesment_quiz_content .upload_file_list ul li {
+        margin-bottom: 19px;
+    }
 
 
 
@@ -1115,6 +1157,26 @@
     #headerTop .rightUserInfo>ul li .dropdown_noti {
         right: -95px !important;
         width: 310px;
+    }
+    /*-- this is for global popup --*/
+    .global_modal .modal-content {
+        padding: 40px 20px 48px 20px;
+    }
+    .global_modal .modal-body{
+        padding: 0px;
+    }
+    .global_modal .modal-header .btn-close {
+        right: 22px;
+        top: 20px;
+    }
+    /* quiz pge 2 content  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .course_page_quiz_2 .course_page_quiz_2_container .quiz_result_box .right_info_result img{
+        height: 40px;
+        margin-left: 20px;
+    }
+    /* course page assesment  */
+    #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .course_page_quiz_1 .assesment_quiz_content .upload_file_list ul li {
+        margin-bottom: 19px;
     }
 }
 

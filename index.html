@@ -14,6 +14,7 @@
    <link rel="stylesheet" href="asset/css/bootstrap.min.css">
    <link rel="stylesheet" href="asset/css/fontawsome.css">
    <link rel="stylesheet" href="asset/css/plugin/owl.carousel.min.css">
+   <link rel="stylesheet" href="asset/css/plugin/venobox.min.css">
    <link rel="stylesheet" href="asset/css/style.css">
    <link rel="stylesheet" href="asset/css/responsive.css">
    <!-- this is for mordanizar js link -->
@@ -294,8 +295,8 @@
                   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
                   Aenean commodo ligula eget dolor aenean massa.</p>
                   <ul>
-                     <li class="getStart"><a href="#">Get Started</a></li>
-                     <li class="playVideo"><a href="#"><img src="asset/img/icons/play.svg" alt=""> Play video</a></li>
+                     <li class="getStart"><a data-bs-toggle="modal" data-bs-target="#global_modal_1"  href="#">Get Started</a></li>
+                     <li class="playVideo"><a class="venobox" data-autoplay="true" data-vbtype="video" href="https://vimeo.com/197893676"><img src="asset/img/icons/play.svg" alt=""> Play video</a></li>
                   </ul>
                </div>
             </div>
@@ -1280,55 +1281,86 @@
       </div>
       </div>
    </div>
+   <!-- start gl0bal popup area -->
+   <div class="modal global_modal fade" id="global_modal_1" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <div class="global_modal_form">
+               <div class="top_title text-center">
+                  <h3>Main Title Goes Here of Popup</h3>
+                  <p>Subtitle text goes here below main title</p>
+               </div>
+               <div class="form_main">
+                  <form action="#">
+                     <input type="text" placeholder="First Text field">
+                     <input type="text" placeholder="Second Text field">
+                     <button type="submit">Button</button>
+                  </form>
+               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+   <!-- end gl0bal popup area -->
 
    <!-- all javascript load here -->
    <script src="asset/js/vendor/jquery-3.3.1.min.js"></script>
    <script src="asset/js/bootstrap.bundle.min.js"></script>
    <script src="asset/js/plugin/owl.carousel.min.js"></script>
+   <script src="asset/js/plugin/venobox.min.js"></script>
    <script src="asset/js/custom.js"></script>
    <script>
-      $('.exploreCourseSliderArea').owlCarousel({
-         loop:true,
-         margin:30,
-         responsiveClass:true,
-         smartSpeed: 1000,
-         nav: true,
-         navText: ['<i class="fal fa-angle-left"></i>','<i class="fal fa-angle-right"></i>'],
-         responsive:{
-            0:{
-               items:1,
-            },
-            576:{
-               stagePadding: 70,
-               items:1,
-               margin:10,
-            },
-            768:{
-               stagePadding: 10,
-               items:2,
-               margin:10,
-            },
-            992:{
-               stagePadding: 20,
-               items:2,
-            },
-            1000:{
-               items:3,
-            },
-         }
+      $(document).ready(function(){
+         $('.exploreCourseSliderArea').owlCarousel({
+            loop:true,
+            margin:30,
+            responsiveClass:true,
+            smartSpeed: 1000,
+            nav: true,
+            navText: ['<i class="fal fa-angle-left"></i>','<i class="fal fa-angle-right"></i>'],
+            responsive:{
+               0:{
+                  items:1,
+               },
+               576:{
+                  stagePadding: 70,
+                  items:1,
+                  margin:10,
+               },
+               768:{
+                  stagePadding: 10,
+                  items:2,
+                  margin:10,
+               },
+               992:{
+                  stagePadding: 20,
+                  items:2,
+               },
+               1000:{
+                  items:3,
+               },
+            }
+         })
+         $('.dropdown-menu').on('click',function(e){
+            e.stopPropagation();
+         })
+         $('body').on('shown.bs.modal', '#smallDeviceSearch', function () {
+            $('#seachContentInput', this).focus();
+         })
+         $('.mobileSidebarMenu').on('click',function(){
+            $('#exploreCourseMobileLik').toggleClass('show');
+         })
+         $('.closeSideBar span').on('click',function(){
+            $('#exploreCourseMobileLik').toggleClass('show');
+         })
+         $('.venobox').venobox(); 
       })
-      $('.dropdown-menu').on('click',function(e){
-         e.stopPropagation();
-      })
-      $('body').on('shown.bs.modal', '#smallDeviceSearch', function () {
-         $('#seachContentInput', this).focus();
-      })
-      $('.mobileSidebarMenu').on('click',function(){
-         $('#exploreCourseMobileLik').toggleClass('show');
-      })
-      $('.closeSideBar span').on('click',function(){
-         $('#exploreCourseMobileLik').toggleClass('show');
-      })
+      
    </script>
 </body>
 

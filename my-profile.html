@@ -335,8 +335,9 @@
                                  </div>
                                  <div class="content">
                                     <p>Password</p>
-                                    <h4>*************</h4>
+                                    <input type="password" id="chnagePassInput" readonly value="12TdfabZer@">
                                     <a class="chnagePassLink" href="#">Change Password</a>
+                                    <a class="updatePassword" href="#">Update Password</a>
                                  </div>
                               </div>
                               <div class="profileInfoBox">
@@ -486,6 +487,33 @@
       })
       $('.closeSideBar span').on('click',function(){
          $('#exploreCourseMobileLik').toggleClass('show');
+      })
+
+      // focus last item
+      $.fn.focusTextToEnd = function(){
+        this.focus();
+        var $thisVal = this.val();
+        this.val('').val($thisVal);
+        return this;
+      }
+
+      //change pass link
+      $('.chnagePassLink').on('click',function(e){
+         $(this).hide();
+         var passChnageFild = document.getElementById('chnagePassInput');
+         passChnageFild.type = 'text';
+         $('#chnagePassInput').removeAttr('readonly');
+         $('#chnagePassInput').focusTextToEnd();
+         e.preventDefault();
+         $('.updatePassword').show();
+      })
+      $('.updatePassword').on('click',function(e){
+         $(this).hide();
+         var passChnageFild = document.getElementById('chnagePassInput');
+         passChnageFild.type = 'password';
+         $('#chnagePassInput').attr('readonly','readonly');
+         e.preventDefault();
+         $('.chnagePassLink').show();
       })
    </script>
 </body>
