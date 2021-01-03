@@ -1458,7 +1458,6 @@ main code start here
             padding-bottom: 40px;
             margin-bottom: 30px;
             .itemNumber{
-               width: 220px;
                .numberCount{
                   height: 40px;
                   width: 40px;
@@ -1486,6 +1485,7 @@ main code start here
             }
             .rightMainContent{
                flex-grow: 1;
+               padding-left: 60px;
                .topInfo{
                   .courseTitle{
                      h4{

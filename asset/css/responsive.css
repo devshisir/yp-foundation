@@ -162,7 +162,10 @@
         padding: 35px 50px 68px 50px;
     }
 
-
+    /* view course page track  */
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent {
+        padding-left: 39px;
+    }
 
 
 
@@ -385,6 +388,10 @@
     /* course page assesment  */
     #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .course_page_quiz_1 .assesment_quiz_content .upload_file_list ul li {
         margin-bottom: 19px;
+    }
+    /* view course page track  */
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent {
+        padding-left: 10px;
     }
 }
 
@@ -694,7 +701,10 @@
     #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .course_page_quiz_1 .assesment_quiz_content .upload_file_list ul li {
         margin-bottom: 19px;
     }
-
+    /* view course page track  */
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent {
+        padding-left: 0px;
+    }
 
 
 
@@ -1177,6 +1187,10 @@
     /* course page assesment  */
     #coursePageArea .coursePageMainArea .coursePageRightPanel .courseRightPanelMainContent .course_page_quiz_1 .assesment_quiz_content .upload_file_list ul li {
         margin-bottom: 19px;
+    }
+    /* view course page track  */
+    #viewPageTrack .courseTrackContainer .courseTrackContainerMain .courseTrackCardItem .rightMainContent {
+        padding-left: 10px;
     }
 }
 
